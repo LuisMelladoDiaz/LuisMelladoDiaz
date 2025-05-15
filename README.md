@@ -3,17 +3,21 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melladodiazluis@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luinki2003)
 
+### About Me
 
-I'm a passionate **Software Engineering student** at the **University of Seville**, with strong interests in **Artificial Intelligence**, **software development**, and **project management**.
+I'm a **Software Engineering student** at the **University of Seville**, passionate about **artificial intelligence**, **web development**, and **project management**.  
+Fueled by curiosity and ambition, I'm on a journey to become a **full-stack developer** and grow into a **technical leader** capable of driving impactful solutions.
 
-- 🎓 Currently working on my thesis in **multi-label classification** with **fuzzy clustering**.
-- 💼 Intern at **NTTData**, supporting Oracle ERP systems with tools like **SQL**, **BI Publisher**, **Python**, and **Jira**.
-- 🚀 Built full-stack applications, including **Pawtel**, a pet accommodation platform (Project Manager & Frontend Developer).
-- 🌱 Always learning about **AI**, **data science**, **distributed systems**, and **web development**.
+- 🎓 Currently working on my **thesis** focused on *multi-label classification* using **fuzzy clustering** techniques.  
+- 🚀 Check out my latest project: [**Pawtel.es**](https://pawtel.es) — where I served as **Project Manager & Full-Stack Developer**.  
+- 💼 Previously at **NTT Data**, supporting **Oracle ERP** systems with tools like **SQL**, **BI Publisher**, **Python**, and **Jira**.  
+- 🌱 Constantly learning and exploring topics in **AI**, **data science**, and **web development**. 
+- 🎮 Lifelong **videogame enthusiast** — always ready for a new challenge!
+
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 
 ### 🧠 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
