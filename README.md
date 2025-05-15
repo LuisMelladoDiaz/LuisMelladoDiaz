@@ -15,6 +15,7 @@ Fueled by curiosity and ambition, I'm on a journey to become a **full-stack deve
 - 🌱 Constantly learning and exploring topics in **AI**, **data science**, and **web development**. 
 - 🎮 Lifelong **videogame enthusiast** — always ready for a new challenge!
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMelladoDiaz&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -28,9 +29,6 @@ Fueled by curiosity and ambition, I'm on a journey to become a **full-stack deve
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMelladoDiaz&theme=dark&hide_border=false&layout=compact)
-
 
 ### 🧩 Frontend
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
