@@ -1,4 +1,8 @@
 # Luis Mellado
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mellado-diaz-luis)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melladodiazluis@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luinki2003)
+---
 
 I'm a passionate **Software Engineering student** at the **University of Seville**, with strong interests in **Artificial Intelligence**, **software development**, and **project management**.
 
@@ -19,6 +23,9 @@ I'm a passionate **Software Engineering student** at the **University of Seville
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMelladoDiaz&theme=dark&hide_border=false&layout=compact)
+
 
 ### 🧩 Frontend
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -58,22 +65,4 @@ I'm a passionate **Software Engineering student** at the **University of Seville
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
----
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LuisMelladoDiaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LuisMelladoDiaz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMelladoDiaz&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🔗 Contact & Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mellado-diaz-luis)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melladodiazluis@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luinki2003)
-
----
-
-> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
